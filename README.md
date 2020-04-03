@@ -1,5 +1,5 @@
 # list-view-example-andorid
-List View Example Using Android
+List View Example (Android)
 
 # Software Requirement
 - Programming Language : Java
